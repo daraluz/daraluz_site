@@ -1,0 +1,40 @@
+SW Ohio GiveCamp Conf Info:
+877.885.1087
+Code: 9377812882
+
+March 2, 2013: Initial Meeting
+  Website feel:
+    Community
+    Mosaic
+    Hip/fun/cutting edge; web 2.0+
+    Textures (encourage interaction)
+    No stock photography - real Moms/Family (Will need release consent if we don't have it already)
+
+  Website technical:
+    Responsive design (desktop, mobile, ipad, etc)
+    Single page app style
+    Serious search engine optimization
+    Attention to usability/accessibility
+    Analytics (monitor web-site traffic; who are our users/visitors?)
+
+  Copy at the wix site is up-to-date and accurate. Use it.
+
+  Websites mentioned that are liked:
+    http://analog.coop 
+      why? Great typography, interesting interaction, polish
+
+  Websites mentioned that are disliked:
+    http://mothersnaturally.org/
+      why? Color scheme, boxy layout, 90's feel
+
+  Other features:
+    Location sensitive map of Dar A Luz chapters (to show a closeness or community support).
+    A library concept (much like the physical library available during meetings).
+    Rich intra-site search capabilities (comprehensive metadata about articles, blog posts, recommended reading, etc).
+
+  Other concepts:
+    
+
+  Non-Profit Info:
+    501c3#: 30-0339946 Dar a Luz Network, Inc.
+     
